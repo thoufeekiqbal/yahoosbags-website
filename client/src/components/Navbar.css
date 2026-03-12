@@ -1,0 +1,31 @@
+.navbar{
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+padding:20px 80px;
+
+background:black;
+color:white;
+
+}
+
+.logo{
+font-size:24px;
+font-weight:bold;
+}
+
+.navbar ul{
+
+display:flex;
+gap:30px;
+list-style:none;
+
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+font-weight:500;
+}
